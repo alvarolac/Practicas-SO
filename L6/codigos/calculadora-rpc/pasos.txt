@@ -1,0 +1,2 @@
+1.- Crear archivo .x, definiendo funciones y estructuras. 
+2.- Ejecutar rpcgen -a fichero.x
